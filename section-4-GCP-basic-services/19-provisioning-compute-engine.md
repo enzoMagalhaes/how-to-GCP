@@ -1,5 +1,5 @@
 
-# Provision Virtual Machine
+# Provision Virtual Machine (IaaS)
 
   - Basic Building block of any cloud (can create with Compute Engine)
 

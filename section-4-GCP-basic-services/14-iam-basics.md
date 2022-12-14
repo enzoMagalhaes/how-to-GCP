@@ -1,6 +1,8 @@
 
 # IAM - Identity & access management
 
+  ![alt text](IAM-identity.png "identity types")
+
   - *who* can do *what* on *which* resources
 
   - who: identity (user, group , domain, etc)
