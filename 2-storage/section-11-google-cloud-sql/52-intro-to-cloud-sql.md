@@ -3,15 +3,15 @@
 
   - fully managed relation database services for MySQL, PostgreSQL and SQL Server
 
-  - Lift & shift above database
-
-  - Regional Database with 99.95% SLA
+  - Auto Scale up to 96 core & 416 GB memory
 
   - Storage up to 30TB
 
-  - Scale up to 96 core & 416 GB memory
-
   - no horizontal scaling
+
+  - Lift & shift above database
+
+  - Regional Database with 99.95% SLA
 
   - data is encrypted with google managed keys or custom keys created by the user
 
